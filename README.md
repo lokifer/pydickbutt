@@ -7,8 +7,8 @@ git clone https://github.com/mothran/pydickbutt
 
 ## Running pydickbutt
 
-cd pydickbutt
-python DickButt.py
+    cd pydickbutt
+    python DickButt.py
 
 ## Why?
 
